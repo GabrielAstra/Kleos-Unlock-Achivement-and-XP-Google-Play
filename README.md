@@ -52,6 +52,10 @@ E usei essa versão do APK Google Play Games:
 Os jogos baixei pela Google Play mesmo. Usei essa versão APK da Google Play porque atualmente eles mudaram a forma de comunicação de liberar as conquistas. 
 
 
+Resumo da ópera: 
+
+Para usar você vai rodar o projeto C# junto ao emulador no Android Stuido com root, baixe o jogo, entre nele, logue com a Google PLay Games, navegue pelas conquistas do jogo na Google Play Games, desligue o WiFi no emulador, use o programa que criei em C# (deixei o mais intuitivo possível, futuramente adiciono uma detalhamento sobre ele), depois lgue o WiFi e veja as conquistas.
+
 
 
 
