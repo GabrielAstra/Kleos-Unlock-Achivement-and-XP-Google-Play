@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+desktop.ini
+*.user
