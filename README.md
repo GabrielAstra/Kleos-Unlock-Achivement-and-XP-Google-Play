@@ -22,7 +22,7 @@ Eu fiz isso usando um emulador com root, então usei versões desatualizadas da 
 
 <h1 align="left">Imagem da conta teste que utilizei JetPack JoyRide como exemplo:</h1>  
 <p align="left">
-  <img src="perfi.png" alt="Perfil " width="300"/>
+  <img src="perfil.png" alt="Perfil " width="300"/>
   <img src="jogo.jpeg" alt="Jogo" width="300"/>
 </p>
 
