@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KleosNew.png" alt="Kleos Logo" width="300"/>
+  <img src="Kleos.png" alt="Kleos Logo" width="300"/>
 </p>
 
 <h1 align="center">Kleos - Unlock Achievement and XP (Google Play)</h1>
