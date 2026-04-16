@@ -29,6 +29,34 @@ Eu fiz isso usando um emulador com root, então usei versões desatualizadas da 
 
 
 
+<h1 align="left">O que você vai precisar para montar o proejto e rodar ?</h1>  
+
+Precisarar do RootAVD, mesmo ele estando extremamente desatualizado foi o que eu usei, até onde testei ele funciona com API 31-.
+
+
+<a href="https://github.com/newbit1/rootAVD" target="_blank">Repositório dele aqui</a>
+
+Precisará instalar o Magisk também. 
+
+<a href="https://magiskmanager.com/" target="_blank">Site oficial deles</a>
+
+Usei o Android Studio para emular as configurações: 
+
+Pixel 4, Android 12.0 x86_64 com Google Play
+
+
+E usei essa versão do APK Google Play Games:
+
+<a href="https://www.apkmirror.com/apk/google-inc/google-play-games/google-play-games-2021-10-30471-release/google-play-games-2021-10-30471-406188382-406188382-000800-2-android-apk-download/?redirected=thank_you_invalid_nonce" target="_blank">Link do APK</a>
+
+Os jogos baixei pela Google Play mesmo. Usei essa versão APK da Google Play porque atualmente eles mudaram a forma de comunicação de liberar as conquistas. 
+
+
+
+
+
+
+
 
 
 
